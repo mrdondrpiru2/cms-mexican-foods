@@ -1,0 +1,1024 @@
+[
+  {
+    "code": "262",
+    "group": "Tortilla de Maíz",
+    "name_es": "Tortilla de cal gruesa 100 ct.",
+    "name_en": "Thick lime-treated tortilla 100 ct.",
+    "presentation": "100 unidades",
+    "description_es": "Tortilla de maíz con sabor clásico, para cocina profesional y doméstica.",
+    "description_en": "Classic-flavor corn tortilla for professional and home kitchens.",
+    "images": ["/images/262.jpg"]
+  },
+  {
+    "code": "301",
+    "group": "Tortilla de Maíz",
+    "name_es": "Tortilla blanca para freír 100 ct.",
+    "name_en": "White tortilla for frying 100 ct.",
+    "presentation": "100 unidades",
+    "description_es": "Tortilla delgada de maíz para freír, de textura suave.",
+    "description_en": "Thin white corn tortilla for frying; soft texture.",
+    "images": ["/images/301.jpg", "/images/301-1.jpg"]
+  },
+  {
+    "code": "303",
+    "group": "Tortilla de Maíz",
+    "name_es": "Tortilla blanca para enchilada 180 ct.",
+    "name_en": "White tortilla for enchiladas 180 ct.",
+    "presentation": "180 unidades",
+    "description_es": "Tortilla blanca con textura suave y gran sabor a maíz.",
+    "description_en": "Soft-textured white corn tortilla with great corn flavor.",
+    "images": ["images/303.jpg"]
+  },
+  {
+    "code": "1015",
+    "group": "Tortilla de Maíz",
+    "name_es": "Tortilla roja para freír 100 ct.",
+    "name_en": "Red tortilla for frying 100 ct.",
+    "presentation": "100 unidades",
+    "description_es": "Tortilla artesanal de maíz, color rojo distintivo, precocida.",
+    "description_en": "Artisanal red corn tortilla, par-cooked.",
+    "images": ["images/1015.jpg", "images/1015-1.jpg"]
+  },
+  {
+    "code": "1016",
+    "group": "Tortilla de Maíz",
+    "name_es": "Tortilla verde para freír 100 ct.",
+    "name_en": "Green tortilla for frying 100 ct.",
+    "presentation": "100 unidades",
+    "description_es": "Tortilla artesanal de maíz, color verde distintivo, precocida.",
+    "description_en": "Artisanal green corn tortilla, par-cooked.",
+    "images": ["images/1016.jpg", "images/1016-1.jpg"]
+  },
+  {
+    "code": "1017",
+    "group": "Tortilla de Maíz",
+    "name_es": "Tortilla azul para freír 100 ct.",
+    "name_en": "Blue tortilla for frying 100 ct.",
+    "presentation": "100 unidades",
+    "description_es": "Tortilla artesanal de maíz azul, precocida.",
+    "description_en": "Artisanal blue corn tortilla, par-cooked.",
+    "images": ["images/1017.jpg", "images/1017-1.jpg"]
+  },
+  {
+    "code": "1018",
+    "group": "Tortilla de Maíz",
+    "name_es": "Tortilla amarilla para freír 100 ct.",
+    "name_en": "Yellow tortilla for frying 100 ct.",
+    "presentation": "100 unidades",
+    "description_es": "Tortilla artesanal de maíz amarillo, precocida.",
+    "description_en": "Artisanal yellow corn tortilla, par-cooked.",
+    "images": ["images/1018.jpg", "images/1018-1.jpg"]
+  },
+  {
+    "code": "1063",
+    "group": "Tortilla de Maíz",
+    "name_es": "Tortilla blend para chalupa, taco shell, nachos 60 ct.",
+    "name_en": "Blend tortilla for chalupa, taco shell, nachos 60 ct.",
+    "presentation": "60 unidades",
+    "description_es": "Tortilla de maíz precocida para chalupa, taco shell y nachos.",
+    "description_en": "Par-cooked corn tortilla for chalupa, taco shells and nachos.",
+    "images": ["/images/1063.jpg", "/images/1063-1.jpg"]
+  },
+
+  {
+    "code": "305",
+    "group": "Tortilla de Maseca®",
+    "name_es": "Tortilla blanca para enchilada 100 ct.",
+    "name_en": "White tortilla for enchiladas 100 ct.",
+    "presentation": "100 unidades",
+    "description_es": "Tortilla especialmente diseñada para enchiladas, de textura suave.",
+    "description_en": "Soft white tortilla specially designed for enchiladas.",
+    "images": ["/images/305.jpg"]
+  },
+  {
+    "code": "1006",
+    "group": "Tortilla de Maseca®",
+    "name_es": "Tortilla blanca suave para enchilada 100 ct.",
+    "name_en": "Soft white tortilla for enchiladas 100 ct.",
+    "presentation": "100 unidades",
+    "description_es": "Tortilla suave de maíz blanco, ideal para enchiladas.",
+    "description_en": "Soft white corn tortilla, ideal for enchiladas.",
+    "images": ["images/1006.jpg"]
+  },
+  {
+    "code": "1061",
+    "group": "Tortilla de Maseca®",
+    "name_es": "Tortilla amarilla para enchilada 100 ct.",
+    "name_en": "Yellow tortilla for enchiladas 100 ct.",
+    "presentation": "100 unidades",
+    "description_es": "Tortilla de maíz amarillo, diseñada para enchiladas.",
+    "description_en": "Yellow corn tortilla designed for enchiladas.",
+    "images": ["/images/1061.jpg"]
+  },
+  {
+    "code": "1064",
+    "group": "Tortilla de Maseca®",
+    "name_es": "Tortilla naranja para enchilada 100 ct.",
+    "name_en": "Orange tortilla for enchiladas 100 ct.",
+    "presentation": "100 unidades",
+    "description_es": "Tortilla de maíz naranja, textura suave para enchiladas.",
+    "description_en": "Orange corn tortilla, soft texture for enchiladas.",
+    "images": ["/images/1064.jpg"]
+  },
+  {
+    "code": "1065",
+    "group": "Tortilla de Maseca®",
+    "name_es": "Tortilla naranja orgánica para enchilada 100 ct.",
+    "name_en": "Organic orange tortilla for enchiladas 100 ct.",
+    "presentation": "100 unidades",
+    "description_es": "Tortilla de maíz orgánico, textura suave y gran sabor.",
+    "description_en": "Organic corn tortilla, soft texture and great flavor.",
+    "images": ["/images/1065.jpg"]
+  },
+  {
+    "code": "1041",
+    "group": "Tortilla de Maseca®",
+    "name_es": "Tortilla roja para enchilada 100 ct.",
+    "name_en": "Red tortilla for enchiladas 100 ct.",
+    "presentation": "100 unidades",
+    "description_es": "Tortilla roja de maíz, diseñada para enchiladas.",
+    "description_en": "Red corn tortilla designed for enchiladas.",
+    "images": ["/images/1041.jpg"]
+  },
+  {
+    "code": "1003",
+    "group": "Tortilla de Maseca®",
+    "name_es": "Tortilla blanca extra gruesa 36 ct.",
+    "name_en": "Extra-thick white tortilla 36 ct.",
+    "presentation": "36 unidades",
+    "description_es": "Tortilla de maíz extra gruesa para mayor resistencia.",
+    "description_en": "Extra-thick corn tortilla for added strength.",
+    "images": ["/images/1003.jpg"]
+  },
+  {
+    "code": "1045",
+    "group": "Tortilla de Maseca®",
+    "name_es": "Tortilla blanca gruesa 60 ct.",
+    "name_en": "Thick white tortilla 60 ct.",
+    "presentation": "60 unidades",
+    "description_es": "Tortilla de maíz de grosor moderado y flexible.",
+    "description_en": "Medium-thickness, flexible corn tortilla.",
+    "images": ["/images/1045.jpg"]
+  },
+  {
+    "code": "1033",
+    "group": "Tortilla de Maseca®",
+    "name_es": "Tortilla blanca ovalada para flauta 60 ct.",
+    "name_en": "Oval white tortilla for flautas 60 ct.",
+    "presentation": "60 unidades",
+    "description_es": "Tortilla alargada y flexible, precocida; ideal para flautas.",
+    "description_en": "Elongated, flexible, par-cooked tortilla; ideal for flautas.",
+    "images": ["/images/1033.jpg"]
+  },
+  {
+    "code": "1042",
+    "group": "Tortilla de Maseca®",
+    "name_es": "Tortilla amarilla ovalada para flauta 60 ct.",
+    "name_en": "Oval yellow tortilla for flautas 60 ct.",
+    "presentation": "60 unidades",
+    "description_es": "Tortilla alargada y flexible, precocida; ideal para flautas.",
+    "description_en": "Elongated, flexible, par-cooked tortilla; ideal for flautas.",
+    "images": ["/images/1042.jpg"]
+  },
+
+  {
+    "code": "1183",
+    "group": "Tortilla cortada para freir",
+    "name_es": "Tortilla cortada de maíz 25 lb",
+    "name_en": "Pre-cut corn tortilla 25 lb",
+    "presentation": "Saco 25 lb",
+    "description_es": "Tortilla precocida y pre-cortada para freír. Ideal para totopos.",
+    "description_en": "Par-cooked, pre-cut tortilla for frying. Ideal for chips.",
+    "images": ["/images/1183.jpg", "/images/1183-1.jpg"]
+  },
+  {
+    "code": "1190",
+    "group": "Tortilla cortada para freir",
+    "name_es": "Tortilla amarilla cortada de Maseca 25 lb",
+    "name_en": "Pre-cut yellow Maseca tortilla 25 lb",
+    "presentation": "Saco 25 lb",
+    "description_es": "Tortilla amarilla precortada, lista para freír.",
+    "description_en": "Pre-cut yellow tortilla, ready to fry.",
+    "images": ["images/1190.jpg", "/images/1190-1.jpg"]
+  },
+  {
+    "code": "1184",
+    "group": "Tortilla cortada para freir",
+    "name_es": "Tortilla blanca cortada de Maseca 25 lb",
+    "name_en": "Pre-cut white Maseca tortilla 25 lb",
+    "presentation": "Saco 25 lb",
+    "description_es": "Tortilla blanca precortada, lista para freír.",
+    "description_en": "Pre-cut white tortilla, ready to fry.",
+    "images": ["/images/1184.jpg", "/images/1184-1.jpg"]
+  },
+
+  {
+    "code": "1108",
+    "group": "Productos de Harina",
+    "name_es": "Tortilla de harina 6.5\" 11 ct.",
+    "name_en": "Flour tortilla 6.5\" 11 ct.",
+    "presentation": "11 piezas",
+    "description_es": "Tortilla de harina de 6.5\", lista para calentar y disfrutar.",
+    "description_en": "6.5\" flour tortilla, ready to heat and serve.",
+    "images": ["/images/1108.jpg"]
+  },
+  {
+    "code": "1088",
+    "group": "Productos de Harina",
+    "name_es": "Tortilla de harina 8\" 12 ct.",
+    "name_en": "Flour tortilla 8\" 12 ct.",
+    "presentation": "12 piezas",
+    "description_es": "Tortilla de harina de 8\", excelente calidad.",
+    "description_en": "8\" flour tortilla of excellent quality.",
+    "images": ["/images/1088.jpg"]
+  },
+  {
+    "code": "1128",
+    "group": "Productos de Harina",
+    "name_es": "Burrito de harina 10\" 12 ct.",
+    "name_en": "Flour burrito tortilla 10\" 12 ct.",
+    "presentation": "12 piezas",
+    "description_es": "Tortilla recomendada para burritos.",
+    "description_en": "Tortilla recommended for burritos.",
+    "images": ["/images/1128.jpg"]
+  },
+  {
+    "code": "1089",
+    "group": "Productos de Harina",
+    "name_es": "Burrito de harina 12\" 12 ct.",
+    "name_en": "Flour burrito tortilla 12\" 12 ct.",
+    "presentation": "12 piezas",
+    "description_es": "Tortilla de excelente calidad para burritos.",
+    "description_en": "Excellent-quality tortilla for burritos.",
+    "images": ["/images/1089 .jpg", "/images/1089-1.jpg"]
+  },
+  {
+    "code": "1097",
+    "group": "Productos de Harina",
+    "name_es": "Burrito de harina OLE 12\" 12 ct.",
+    "name_en": "OLE flour burrito tortilla 12\" 12 ct.",
+    "presentation": "12 piezas",
+    "description_es": "Tortilla para uso casero o profesional.",
+    "description_en": "Tortilla for home or professional use.",
+    "images": ["/images/1097.jpg"]
+  },
+  {
+    "code": "1098",
+    "group": "Productos de Harina",
+    "name_es": "Burrito de harina 14\" 12 ct.",
+    "name_en": "Flour burrito tortilla 14\" 12 ct.",
+    "presentation": "12 piezas",
+    "description_es": "Tortilla grande de excelente calidad.",
+    "description_en": "Large tortilla of excellent quality.",
+    "images": ["/images/1098.jpg", "/images/1098-1.jpg"]
+  },
+  {
+    "code": "1095",
+    "group": "Productos de Harina",
+    "name_es": "Tortilla de harina cruda lista para cocer 7\" 20 ct / 15 pk.",
+    "name_en": "Raw flour tortilla ready to cook 7\" 20 ct / 15 pk.",
+    "presentation": "20 piezas (paquete)",
+    "description_es": "Tortilla lista para cocer con sabor casero.",
+    "description_en": "Ready-to-cook tortilla with homemade flavor.",
+    "images": ["images/1095.jpg", "/images/1095-1.jpg"]
+  },
+  {
+    "code": "1111",
+    "group": "Productos de Harina",
+    "name_es": "Testales de harina 42.5 g (caja 300 ct.)",
+    "name_en": "Flour dough balls 42.5 g (box 300 ct.)",
+    "presentation": "Caja 300 piezas",
+    "description_es": "Bolitas de masa listas para aplanarse y cocer.",
+    "description_en": "Prepared dough balls ready to press and cook.",
+    "images": ["/images/1111.jpg", "/images/1111-1.jpg"]
+  },
+  {
+    "code": "2305",
+    "group": "Productos de Harina",
+    "name_es": "Taco salad (Die cut) 12\" 24 ct.",
+    "name_en": "Taco salad (Die cut) 12\" 24 ct.",
+    "presentation": "24 piezas",
+    "description_es": "Tortilla de harina mediana para freír u hornear.",
+    "description_en": "Medium flour tortilla to fry or bake.",
+    "images": ["/images/2305.jpg"]
+  },
+  {
+    "code": "2306",
+    "group": "Productos de Harina",
+    "name_es": "Taco salad (Die cut) 14\" 24 ct.",
+    "name_en": "Taco salad (Die cut) 14\" 24 ct.",
+    "presentation": "24 piezas",
+    "description_es": "Tortilla de harina grande para freír u hornear.",
+    "description_en": "Large flour tortilla to fry or bake.",
+    "images": ["/images/2306.jpg"]
+  },
+  {
+    "code": "2308",
+    "group": "Productos de Harina",
+    "name_es": "Taco salad (Die cut) 10\" 24 ct.",
+    "name_en": "Taco salad (Die cut) 10\" 24 ct.",
+    "presentation": "24 piezas",
+    "description_es": "Tortilla de harina chica para freír u hornear.",
+    "description_en": "Small flour tortilla to fry or bake.",
+    "images": ["/images/2308.jpg"]
+  },
+
+  {
+    "code": "1051",
+    "group": "Mini tacos",
+    "name_es": "Tortilla mini amarilla de cal 4\" 80 ct.",
+    "name_en": "Mini yellow lime-treated tortilla 4\" 80 ct.",
+    "presentation": "80 unidades",
+    "description_es": "Tortilla artesanal precocida, ideal para mini tacos.",
+    "description_en": "Artisanal par-cooked tortilla, ideal for mini tacos.",
+    "images": ["/images/1051.jpg"]
+  },
+  {
+    "code": "1054",
+    "group": "Mini tacos",
+    "name_es": "Tortilla mini amarilla 4\" 100 ct.",
+    "name_en": "Mini yellow tortilla 4\" 100 ct.",
+    "presentation": "100 unidades",
+    "description_es": "Tortilla de maíz amarillo para mini tacos.",
+    "description_en": "Yellow corn tortilla for mini tacos.",
+    "images": ["/images/1054.jpg"]
+  },
+  {
+    "code": "1067",
+    "group": "Mini tacos",
+    "name_es": "Tortilla mini amarilla 4.5\" 80 ct.",
+    "name_en": "Mini yellow tortilla 4.5\" 80 ct.",
+    "presentation": "80 unidades",
+    "description_es": "Tortilla de maíz amarillo para mini tacos.",
+    "description_en": "Yellow corn tortilla for mini tacos.",
+    "images": ["/images/1067.jpg"]
+  },
+  {
+    "code": "1070",
+    "group": "Mini tacos",
+    "name_es": "Tortilla mini blanca 4.5\" 80 ct.",
+    "name_en": "Mini white tortilla 4.5\" 80 ct.",
+    "presentation": "80 unidades",
+    "description_es": "Tortilla de maíz blanco para mini tacos.",
+    "description_en": "White corn tortilla for mini tacos.",
+    "images": ["/images/1070.jpg"]
+  },
+
+  {
+    "code": "1156",
+    "group": "Chips y Shells",
+    "name_es": "Chip delgado MASECA® 6 lb",
+    "name_en": "Thin chip MASECA® 6 lb",
+    "presentation": "6 lb",
+    "description_es": "Tortilla delgada cortada en totopos, frita y crujiente.",
+    "description_en": "Thin tortilla cut into chips, fried and crispy.",
+    "images": ["/images/1156.jpg"]
+  },
+  {
+    "code": "1157",
+    "group": "Chips y Shells",
+    "name_es": "Chip grueso MASECA® 7 lb",
+    "name_en": "Thick chip MASECA® 7 lb",
+    "presentation": "7 lb",
+    "description_es": "Tortilla gruesa cortada en totopos, frita y crujiente.",
+    "description_en": "Thick tortilla cut into chips, fried and crispy.",
+    "images": ["/images/1157.jpg"]
+  },
+  {
+    "code": "1158",
+    "group": "Chips y Shells",
+    "name_es": "Chip premium de maíz 8 lb",
+    "name_en": "Premium corn chip 8 lb",
+    "presentation": "8 lb",
+    "description_es": "Tortilla de maíz de alta calidad, cortada en totopos y frita.",
+    "description_en": "High-quality corn tortilla cut into chips and fried.",
+    "images": ["/images/1158.jpg"]
+  },
+  {
+    "code": "1159",
+    "group": "Chips y Shells",
+    "name_es": "Chip de maíz 10 lb",
+    "name_en": "Corn chip 10 lb",
+    "presentation": "10 lb",
+    "description_es": "Tortilla de maíz cortada en totopos, frita y crujiente.",
+    "description_en": "Corn tortilla cut into chips, fried and crispy.",
+    "images": ["/images/1159.jpg"]
+  },
+  {
+    "code": "2507",
+    "group": "Chips y Shells",
+    "name_es": "Tostada shells 200 ct.",
+    "name_en": "Tostada shells 200 ct.",
+    "presentation": "Caja 200 piezas",
+    "description_es": "Tortilla frita, crujiente y con gran sabor a maíz; lista para toppings.",
+    "description_en": "Fried, crispy corn tortilla; ready for toppings.",
+    "images": ["/images/2507.jpg"]
+  },
+  {
+    "code": "2511",
+    "group": "Chips y Shells",
+    "name_es": "Taco shells 200 ct.",
+    "name_en": "Taco shells 200 ct.",
+    "presentation": "Caja 200 piezas",
+    "description_es": "Tortilla de maíz frita con forma de taco; lista para rellenar.",
+    "description_en": "Fried corn tortilla shaped as taco shell; ready to fill.",
+    "images": ["/images/2511.jpg"]
+  },
+
+  {
+    "code": "2599",
+    "group": "Bultos de harina",
+    "name_es": "Harina amarilla artesanal Omalli 20 kg / 44.09 lb",
+    "name_en": "Omalli artisanal yellow corn flour 20 kg / 44.09 lb",
+    "presentation": "Saco 20 kg",
+    "description_es": "Harina de maíz nixtamalizado, enriquecida con vitaminas y minerales.",
+    "description_en": "Nixtamalized corn flour, enriched with vitamins and minerals.",
+    "images": ["/images/Maseca.PNG"]
+  },
+  {
+    "code": "2601",
+    "group": "Bultos de harina",
+    "name_es": "Harina Maseca blanca 22.68 kg / 50 lb",
+    "name_en": "Maseca white corn flour 22.68 kg / 50 lb",
+    "presentation": "Saco 50 lb",
+    "description_es": "Harina de maíz selecto blanco, masa instantánea, libre de gluten.",
+    "description_en": "Selected white corn flour, instant masa, gluten-free.",
+    "images": ["/images/Omali.PNG"]
+  },
+{
+  "code": "2401",
+  "group": "Especias",
+  "name_es": "Ajo granulado",
+  "name_en": "Granulated garlic",
+  "presentation": "5 libras",
+  "description_es": "Especia natural seleccionada y pulverizada.",
+  "description_en": "Selected, finely ground garlic seasoning.",
+  "images": ["/images/Ajo-granulado.png", "/images/ajo-granulado-2.png"]
+},
+{
+  "code": "2404",
+  "group": "Especias",
+  "name_es": "Paprika",
+  "name_en": "Paprika",
+  "presentation": "5 libras",
+  "description_es": "Condimento en polvo a base de pimientos.",
+  "description_en": "Powdered seasoning made from peppers.",
+  "images": ["/images/Paprika.PNG", "/images/Paprika2.PNG", "/images/PAPRIKAET.png"]
+},
+{
+  "code": "2388",
+  "group": "Especias",
+  "name_es": "Comino entero",
+  "name_en": "Whole cumin",
+  "presentation": "5 libras",
+  "description_es": "Semilla aromática con notas terrosas; básica en guisos y adobos.",
+  "description_en": "Aromatic seed with earthy notes; essential for stews and marinades.",
+  "images": ["/images/Comino-entero.PNG", "/images/COMINO-ENTEROET.png"]
+},
+{
+  "code": "2406",
+  "group": "Especias",
+  "name_es": "Comino en polvo",
+  "name_en": "Ground cumin",
+  "presentation": "5 libras",
+  "description_es": "Especia molida de sabor cálido; ideal para sazonar de forma uniforme.",
+  "description_en": "Warm-flavored ground spice; ideal for even seasoning.",
+  "images": ["images/Comino-polvo.PNG", "/images/Comino-polvo-2.PNG","/images/CominoET.png"]
+},
+{
+  "code": "2625",
+  "group": "Especias",
+  "name_es": "Anís estrella",
+  "name_en": "Star anise",
+  "presentation": "1 libra",
+  "description_es": "Especia de alta calidad con delicioso aroma y sabor.",
+  "description_en": "High-quality spice with a delightful aroma and flavor.",
+  "images": ["/images/Anis-Estrella.PNG"]
+},
+{
+  "code": "2390",
+  "group": "Especias",
+  "name_es": "Chili powder",
+  "name_en": "Chili powder",
+  "presentation": "5 libras",
+  "description_es": "Mezcla de chiles molidos y especias para aportar picor y sabor.",
+  "description_en": "Blend of ground chilies and spices for heat and flavor.",
+  "images": ["/images/Chili-powder.PNG", "/images/Chili-powder-2.PNG", "/images/Chili-powderET.png"]
+},
+{
+  "code": "2405",
+  "group": "Especias",
+  "name_es": "Canela en caña",
+  "name_en": "Cinnamon sticks",
+  "presentation": "1 libra",
+  "description_es": "Canela en vara para infusiones, postres y guisos dulces.",
+  "description_en": "Cinnamon sticks for infusions, desserts, and sweet dishes.",
+  "images": ["/images/Canela-cana.PNG"]
+},
+{
+  "code": "2408",
+  "group": "Especias",
+  "name_es": "Orégano",
+  "name_en": "Oregano",
+  "presentation": "1 libra",
+  "description_es": "Hoja aromática recomendada en salsas y carnes.",
+  "description_en": "Aromatic herb recommended for sauces and meats.",
+  "images": []
+},
+{
+  "code": "2387",
+  "group": "Especias",
+  "name_es": "Pimienta negra entera",
+  "name_en": "Whole black pepper",
+  "presentation": "5 libras",
+  "description_es": "Grano entero para moler al cocinar y obtener sabor más intenso.",
+  "description_en": "Whole peppercorns to grind for bolder flavor.",
+  "images": ["/images/Pimienta negra entera .PNG"]
+},
+{
+  "code": "2394",
+  "group": "Especias",
+  "name_es": "Pimienta negra molida",
+  "name_en": "Ground black pepper",
+  "presentation": "5 libras",
+  "description_es": "En polvo, lista para usar; sazonado práctico y consistente.",
+  "description_en": "Ready-to-use ground pepper; practical, consistent seasoning.",
+  "images": ["/images/Pimienta negra moida .PNG", "/images/Pimienta negra molida 2.PNG"]
+},
+{
+  "code": "2619",
+  "group": "Especias",
+  "name_es": "Clavo en polvo",
+  "name_en": "Ground clove",
+  "presentation": "1 libra",
+  "description_es": "Especia cálida y fragante; ideal en salsas, marinados y repostería.",
+  "description_en": "Warm, fragrant spice; great for sauces, marinades, and baking.",
+  "images": ["/images/Clavo-molido.PNG"]
+},
+{
+  "code": "2310",
+  "group": "Especias",
+  "name_es": "Clavo entero",
+  "name_en": "Whole clove",
+  "presentation": "1 libra",
+  "description_es": "Especia entera con aroma intenso para preparaciones largas.",
+  "description_en": "Whole spice with intense aroma for long-cooking preparations.",
+  "images": ["/images/Clavo-entero.PNG", "/images/Clavo-entero-2.PNG"]
+},
+{
+  "code": "2386",
+  "group": "Especias",
+  "name_es": "Laurel",
+  "name_en": "Bay leaf",
+  "presentation": "1 libra",
+  "description_es": "Hoja que aporta notas balsámicas a los platillos.",
+  "description_en": "Leaf that adds balsamic notes to dishes.",
+  "images": ["/images/Laurel.PNG", "/images/Laurel-2.PNG"]
+},
+{
+  "code": "2409",
+  "group": "Especias",
+  "name_es": "Romero",
+  "name_en": "Rosemary",
+  "presentation": "8.5 onzas",
+  "description_es": "Hierba aromática y deliciosa, excelente para carnes y papas.",
+  "description_en": "Fragrant, delicious herb; excellent for meats and potatoes.",
+  "images": ["/images/Romero.PNG"]
+},
+{
+  "code": "2396",
+  "group": "Especias",
+  "name_es": "Cayenne",
+  "name_en": "Cayenne pepper",
+  "presentation": "5 libras",
+  "description_es": "Chile molido de picor medio-alto para dar golpe de sabor.",
+  "description_en": "Medium-high heat ground chili for a spicy kick.",
+  "images": ["/images/Cayenne.PNG", "/images/Cayenne-2.PNG", "/images/CAYENNEET.png"]
+},
+{
+  "code": "2327",
+  "group": "Especias",
+  "name_es": "Hojuelas de perejil seco",
+  "name_en": "Dried parsley flakes",
+  "presentation": "12 onzas",
+  "description_es": "Toque fresco y verde para sopas, salsas y ensaladas.",
+  "description_en": "Fresh, green touch for soups, sauces, and salads.",
+  "images": ["/images/Hojuelas-peregil.PNG"]
+},
+{
+  "code": "2617",
+  "group": "Especias",
+  "name_es": "Nuez moscada molida",
+  "name_en": "Ground nutmeg",
+  "presentation": "1 libra",
+  "description_es": "Nuez molida, perfecta para cremas, purés y postres.",
+  "description_en": "Ground nutmeg, perfect for creams, purées, and desserts.",
+  "images": ["/images/Nuez-moscada-molida.PNG"]
+},
+{
+  "code": "2414",
+  "group": "Especias",
+  "name_es": "Tomillo",
+  "name_en": "Thyme",
+  "presentation": "1 libra",
+  "description_es": "Hierba aromática de perfil terroso que aporta sabor a los platillos",
+  "description_en": "Aromatic herb with earthy profile that adds depth to dishes.",
+  "images": ["/images/Tomillo.PNG", "/images/Tomillo-2.PNG"]
+},
+{
+  "code": "2398",
+  "group": "Especias",
+  "name_es": "Canela en polvo",
+  "name_en": "Ground cinnamon",
+  "presentation": "5 libras",
+  "description_es": "Canela molida para preparar en postres y bebidas dulces",
+  "description_en": "Ground cinnamon for desserts and sweet beverages.",
+  "images": ["/images/Canela-polvo.PNG", "/images/Canela-polvo-2.PNG"]
+},
+{
+  "code": "2309",
+  "group": "Especias",
+  "name_es": "Cebolla granulada",
+  "name_en": "Granulated onion",
+  "presentation": "5 libras",
+  "description_es": "Sazonador versátil que aporta sabor a cebolla de forma uniforme.",
+  "description_en": "Versatile seasoning that provides even onion flavor.",
+  "images": ["/images/Cebolla-granulada.PNG", "/images/Cebolla-granulada-2.PNG"]
+},
+{
+  "code": "2393",
+  "group": "Especias",
+  "name_es": "Pimienta blanca",
+  "name_en": "White pepper",
+  "presentation": "5 libras",
+  "description_es": "Pimienta de sabor suave; ideal para salsas claras y pescados.",
+  "description_en": "Milder pepper; ideal for light sauces and fish.",
+  "images": ["images/Pimienta-blanca.PNG", "/images/Pimienta-blanca-2.PNG"]
+},
+
+{
+  "code": "2383",
+  "group": "Sazonadores",
+  "name_es": "Fajita rosa",
+  "name_en": "Pink fajita seasoning",
+  "presentation": "5 y 10 libras",
+  "description_es": "Mezcla balanceada para marinar y saltear con color y sabor consistentes.",
+  "description_en": "Balanced blend for marinating and sautéing with consistent color and flavor.",
+  "images": ["/images/Fajita-rosa.PNG", "/images/Fajita-rosa-2.PNG", "/images/FAJITA-ROSAET.png"]
+},
+{
+  "code": "2384",
+  "group": "Sazonadores",
+  "name_es": "Fajita roja",
+  "name_en": "Red fajita seasoning",
+  "presentation": "5 y 10 libras",
+  "description_es": "Sazonador con notas de chile y especias para fajitas y carnes.",
+  "description_en": "Seasoning with chili and spice notes for fajitas and meats.",
+  "images": ["/images/Fajita-roja.PNG", "/images/Fajita-roja-2.PNG", "/images/FAJITA-SEASONINGET.png"]
+},
+{
+  "code": "2385",
+  "group": "Sazonadores",
+  "name_es": "Fajita blanca",
+  "name_en": "White fajita seasoning",
+  "presentation": "5 y 10 libras",
+  "description_es": "Condimento suave para fajitas de pollo, res o vegetales.",
+  "description_en": "Mild blend for chicken, beef, or veggie fajitas.",
+  "images": ["/images/Fajita-blanca.PNG", "/images/Fajita-blanca-2.PNG", "/images/FAJITA-SEASONINGET.png"]
+},
+{
+  "code": "2411",
+  "group": "Sazonadores",
+  "name_es": "Sazonador Goya",
+  "name_en": "Goya seasoning",
+  "presentation": "5 libras",
+  "description_es": "Sazonador multiusos para realzar el sabor de todo tipo de platillos.",
+  "description_en": "All-purpose seasoning to enhance all kinds of dishes.",
+  "images": []
+},
+{
+  "code": "2418",
+  "group": "Sazonadores",
+  "name_es": "Celery salt",
+  "name_en": "Celery salt",
+  "presentation": "30 onzas",
+  "description_es": "Sal especiada con apio; ideal para coctelería y sazonado.",
+  "description_en": "Spiced salt with celery; ideal for cocktails and seasoning.",
+  "images": []
+},
+{
+  "code": "2618",
+  "group": "Sazonadores",
+  "name_es": "Cajun seasoning",
+  "name_en": "Cajun seasoning",
+  "presentation": "6 libras",
+  "description_es": "Mezcla estilo Cajun con picor medio y especias aromáticas.",
+  "description_en": "Cajun-style blend with medium heat and aromatic spices.",
+  "images": ["/images/Cajun-seasoning.PNG", "/images/Cajun-seasoning-2.PNG"]
+},
+{
+  "code": "2328",
+  "group": "Sazonadores",
+  "name_es": "Sazonador italiano",
+  "name_en": "Italian seasoning",
+  "presentation": "2 libras",
+  "description_es": "Hierbas y especias clásicas italianas para salsas y asados",
+  "description_en": "Classic Italian herbs and spices for sauces and roasts.",
+  "images": ["/images/SASONADOR-ITALIANOET.png"]
+},
+{
+  "code": "2395",
+  "group": "Sazonadores",
+  "name_es": "Lemon pepper",
+  "name_en": "Lemon pepper",
+  "presentation": "5 libras",
+  "description_es": "Sazonador cítrico con pimienta; perfecto para pollo y papas fritas.",
+  "description_en": "Citrus-pepper seasoning; perfect for chicken and fries.",
+  "images": ["/images/Lemon-pepper.PNG", "/images/Lemon-pepper-2.PNG", "/images/lemon-pepper-10Lbs.png"]
+},
+{
+  "code": "2400",
+  "group": "Sazonadores",
+  "name_es": "Season salt",
+  "name_en": "Seasoned salt",
+  "presentation": "5 libras",
+  "description_es": "Sal sazonada multiusos para un toque sabroso inmediato.",
+  "description_en": "All-purpose seasoned salt for instant savory flavor.",
+  "images": ["/images/season-salt.PNG", "/images/season-salt-2.PNG", "/images/SEASON-SALTET.png"]
+},
+
+{
+  "code": "2614",
+  "group": "Caldos",
+  "name_es": "Knorr Pollo",
+  "name_en": "Knorr Chicken",
+  "presentation": "7.9 libras",
+  "description_es": "Base concentrada de pollo que aporta profundidad a sopas y guisos.",
+  "description_en": "Concentrated chicken base that adds depth to soups and stews.",
+  "images": ["/images/knorr-pollo .PNG"]
+},
+{
+  "code": "2615",
+  "group": "Caldos",
+  "name_es": "Knorr Res",
+  "name_en": "Knorr Beef",
+  "presentation": "4.4 libras",
+  "description_es": "Base concentrada de res que aporta profundidad a caldos y guisos.",
+  "description_en": "Concentrated beef base that adds depth to broths and stews.",
+  "images": ["/images/Knorr-res.PNG"]
+},
+{
+  "code": "2616",
+  "group": "Caldos",
+  "name_es": "Knorr Tomate",
+  "name_en": "Knorr Tomato",
+  "presentation": "4.4 libras",
+  "description_es": "Sabor a tomate concentrado para salsas y sopas.",
+  "description_en": "Concentrated tomato flavor for sauces and soups.",
+  "images": ["/images/knorr-tomate .PNG"]
+},
+{
+  "code": "2392",
+  "group": "Caldos",
+  "name_es": "Menudo mix",
+  "name_en": "Menudo mix",
+  "presentation": "5 libras",
+  "description_es": "Mezcla para menudo; añadiendo agua se obtiene un caldo delicioso.",
+  "description_en": "Menudo blend; just add water for a delicious broth.",
+  "images": ["/images/Menudo-mix .PNG"]
+},
+{
+  "code": "2312",
+  "group": "Caldos",
+  "name_es": "Chicken base",
+  "name_en": "Chicken base",
+  "presentation": "Cubeta 22 libras",
+  "description_es": "Base de pollo de alto rendimiento para cocina profesional.",
+  "description_en": "High-yield chicken base for professional kitchens.",
+  "images": ["/images/Chiken-base .PNG"]
+},
+
+{
+  "code": "2316",
+  "group": "Chilitos",
+  "name_es": "Chilito para fruta",
+  "name_en": "Fruit chili powder",
+  "presentation": "Frasco 10 libras",
+  "description_es": "Chile molido con sabor dulce y picante, ideal para frutas.",
+  "description_en": "Sweet-and-spicy ground chili, ideal for fruit.",
+  "images": ["/images/Chilito-para-fruta.jpg", "/images/CHILITOET.png"]
+},
+{
+  "code": "2610",
+  "group": "Chilitos",
+  "name_es": "Tajín",
+  "name_en": "Tajín",
+  "presentation": "12 frascos de 14 oz",
+  "description_es": "Clásico mexicano con chile, sal y limón; perfecto en frutas y botanas.",
+  "description_en": "Classic Mexican blend of chili, salt, and lime; perfect on fruit and snacks.",
+  "images": ["/images/Tajin.PNG"]
+},
+{
+  "code": "2304",
+  "group": "Chilitos",
+  "name_es": "Chamoy",
+  "name_en": "Chamoy",
+  "presentation": "Cubeta 11.02 libras",
+  "description_es": "Salsa dulce, salada y picante, usada en botanas, cocteles y escarchados.",
+  "description_en": "Sweet, salty, and spicy sauce for snacks, cocktails, and rim dips.",
+  "images": ["/images/Chamoy.PNG"]
+},
+{
+  "code": "Pending",
+  "group": "Chilitos",
+  "name_es": "Chamoy MEGA",
+  "name_en": "Chamoy MEGA",
+  "presentation": "1.05 gal/4L",
+  "description_es": "Salsa dulce, salada y picante, usada en botanas, cocteles y escarchados.",
+  "description_en": "Sweet, salty, and spicy sauce for snacks, cocktails, and rim dips.",
+  "images": ["/images/Chamoy-MEGA.jpg"]
+},
+
+{
+  "code": "2300",
+  "group": "Chile seco",
+  "name_es": "Chile ancho",
+  "name_en": "Dried ancho chili",
+  "presentation": "1, 5 y 25 libras",
+  "description_es": "Chile seco de sabor dulce, base para salsas tradicionales.",
+  "description_en": "Sweet, mild dried chili; base for traditional sauces.",
+  "images": ["/images/CHILE-ANCHOET.png"]
+},
+{
+  "code": "2326",
+  "group": "Chile seco",
+  "name_es": "Chile piquín",
+  "name_en": "Dried piquín chili",
+  "presentation": "1 libra",
+  "description_es": "Chile pequeño y picante, usado para cocina típica mexicana.",
+  "description_en": "Small, spicy chili used in classic Mexican cooking.",
+  "images": []
+},
+{
+  "code": "2318",
+  "group": "Chile seco",
+  "name_es": "Chile de árbol",
+  "name_en": "Dried árbol chili",
+  "presentation": "15 libras",
+  "description_es": "Chile seco de picor medio/alto; ideal para platillos picantes.",
+  "description_en": "Medium-to-high heat dried chili; ideal for spicy dishes.",
+  "images": []
+},
+{
+  "code": "2321",
+  "group": "Chile seco",
+  "name_es": "Chile guajillo",
+  "name_en": "Dried guajillo chili",
+  "presentation": "5 y 25 libras",
+  "description_es": "Chile seco de sabor suave, esencial para adobos y moles.",
+  "description_en": "Mild dried chili; essential for adobos and moles.",
+  "images": []
+},
+{
+  "code": "2606",
+  "group": "Chile seco",
+  "name_es": "Chile quebrado",
+  "name_en": "Crushed dried chili",
+  "presentation": "1 libra",
+  "description_es": "Chile seco troceado; añade textura y picor moderado.",
+  "description_en": "Crushed dried chili; adds texture and moderate heat.",
+  "images": []
+},
+
+{
+  "code": "2311",
+  "group": "Mole",
+  "name_es": "Mole Rogelio Bueno",
+  "name_en": "Rogelio Bueno mole",
+  "presentation": "22 galones",
+  "description_es": "Mole tradicional mexicano con mezcla de chiles y especias.",
+  "description_en": "Traditional Mexican mole with a blend of chilies and spices.",
+  "images": []
+},
+{
+  "code": "2301",
+  "group": "Mole",
+  "name_es": "Mole negro “La California”",
+  "name_en": "“La California” black mole",
+  "presentation": "20 kilogramos",
+  "description_es": "Mole artesanal oscuro de sabor profundo y dulce.",
+  "description_en": "Artisanal dark mole with deep, slightly sweet flavor.",
+  "images": ["/images/Mole-negro.PNG"]
+},
+
+{
+  "code": "2410",
+  "group": "Más productos",
+  "name_es": "Chicharrón",
+  "name_en": "Pork rinds",
+  "presentation": "5 y 10 libras",
+  "description_es": "Crujiente y delicioso, ideal como botana o ingrediente en guisos.",
+  "description_en": "Crispy and delicious; ideal as a snack or in stews.",
+  "images": ["/images/Chicharron.jpg", "/images/chicharron-2.jpg"]
+},
+{
+  "code": "2522",
+  "group": "Más productos",
+  "name_es": "Machacado",
+  "name_en": "Shredded dried beef",
+  "presentation": "1 libra",
+  "description_es": "Carne seca machacada de la más alta calidad.",
+  "description_en": "Premium quality shredded dried beef.",
+  "images": ["/images/Machacado.jpg"]
+},
+{
+  "code": "2413",
+  "group": "Más productos",
+  "name_es": "Jamaica",
+  "name_en": "Dried hibiscus",
+  "presentation": "10 libras",
+  "description_es": "Flor seca para preparar agua de jamaica natural o infusiones.",
+  "description_en": "Dried flower for hibiscus water or infusions.",
+  "images": ["/images/Jamaica.PNG"]
+},
+{
+  "code": "2001",
+  "group": "Más productos",
+  "name_es": "Achiote",
+  "name_en": "Achiote paste",
+  "presentation": "Caja con 12 paquetes",
+  "description_es": "Pasta para adobos y marinados; sabor típico del sureste mexicano.",
+  "description_en": "Paste for marinades and rubs; classic flavor from Southeast Mexico.",
+  "images": ["/images/Achiote.jpg", "/images/achiote-2.jpg"]
+},
+{
+  "code": "2415",
+  "group": "Más productos",
+  "name_es": "Potato whitener",
+  "name_en": "Potato whitener",
+  "presentation": "5 y 10 libras",
+  "description_es": "Aditivo alimenticio para conservar color y textura en papas y guacamole.",
+  "description_en": "Food additive to preserve whiteness and texture in potatoes and guacamole.",
+  "images": ["/images/Potato-whitener.PNG", "/images/Potato-whitener-2.PNG", "/images/POTATO-WHITE5lbs.png", "/images/POTATO10LBS.png"]
+},
+{
+  "code": "2417",
+  "group": "Más productos",
+  "name_es": "Piloncillo",
+  "name_en": "Piloncillo (cane sugar cones)",
+  "presentation": "Caja con 60 unidades",
+  "description_es": "Endulzante natural de caña; ideal para postres y bebidas calientes.",
+  "description_en": "Natural cane sweetener; ideal for desserts and hot drinks.",
+  "images": []
+},
+{
+  "code": "2604",
+  "group": "Más productos",
+  "name_es": "Queso fresco mexicano",
+  "name_en": "Mexican queso fresco",
+  "presentation": "20 libras",
+  "description_es": "Queso tradicional suave; ideal para platillos típicos.",
+  "description_en": "Traditional soft Mexican cheese; ideal for classic dishes.",
+  "images": ["/images/Queso-fresco-mexicano.PNG", "/images/Queso-fresco-mexicano-2.PNG"]
+},
+{
+  "code": "2603",
+  "group": "Más productos",
+  "name_es": "Extracto de vainilla",
+  "name_en": "Vanilla extract",
+  "presentation": "1 galón",
+  "description_es": "Extracto aromático para repostería, bebidas y panadería.",
+  "description_en": "Aromatic extract for baking, beverages, and pastries.",
+  "images": ["/images/Vainilla.PNG"]
+},
+{
+  "code": "2054",
+  "group": "Más productos",
+  "name_es": "Almendras laminadas",
+  "name_en": "Sliced almonds",
+  "presentation": "5 libras",
+  "description_es": "Frutos secos listos para decoración y repostería.",
+  "description_en": "Ready-to-use nuts for decoration and baking.",
+  "images": ["/images/Almendras-laminadas .jpg"]
+},
+{
+  "code": "2500",
+  "group": "Más productos",
+  "name_es": "Suavizador de carne",
+  "name_en": "Meat tenderizer",
+  "presentation": "5 libras",
+  "description_es": "Mezcla que ablanda cortes de carne sin alterar el sabor.",
+  "description_en": "Blend that tenderizes meat cuts without altering flavor.",
+  "images": ["/images/SUAVIZADOR-CARNE10Lbs.png"]
+},
+{
+  "code": "2403",
+  "group": "Más productos",
+  "name_es": "Chorizo",
+  "name_en": "Chorizo",
+  "presentation": "30 libras",
+  "description_es": "Embutido tradicional mexicano, condimentado con especias.",
+  "description_en": "Traditional Mexican sausage seasoned with spices.",
+  "images": ["/images/Chorizo.PNG"]
+}
+]

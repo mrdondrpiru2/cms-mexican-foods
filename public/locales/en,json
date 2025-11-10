@@ -1,0 +1,97 @@
+{
+  "business": {
+    "name": "CMS MEXICAN FOODS, LLC.",
+    "tagline": "Foodservice distributors – Corn flour, spices & more",
+    "phone_label": "Phone",
+    "phone": "(210) 776-9278",
+    "email": "cmsmexicanfoods@gmail.com",
+    "address": "5718 Business Park, San Antonio, TX 78218",
+    "cta_whatsapp": "Order via WhatsApp"
+  },
+  "nav": {
+    "products": "Products",
+    "location": "Location",
+    "about": "About us",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Product catalog (no prices)",
+    "subtitle": "We are foodservice distributors in Texas. Browse our products and contact us to place your order.",
+    "btn_products": "View products",
+    "btn_location": "Location",
+    "badge": "Mexican food wholesale"
+  },
+  "filters": {
+    "all": "All",
+    "primary": "Main products",
+    "seasonings": "Spices, seasonings & more"
+  },
+  "product_groups": {
+    "title": "Our products",
+    "primary_title": "Main line",
+    "g1": "Corn tortillas",
+    "g2": "Maseca® tortillas",
+    "g3": "Pre-cut tortillas for frying",
+    "g4": "Flour products",
+    "g5": "Mini tacos",
+    "g6": "Chips & shells",
+    "g7": "Flour sacks",
+    "sec_title": "Spices, seasonings & more",
+    "s1": "Spices",
+    "s2": "Seasonings",
+    "s3": "Broths & bases",
+    "s4": "Chili snacks",
+    "s5": "Dried chiles",
+    "s6": "Mole",
+    "s7": "More products"
+  },
+  "product_card": {
+    "units": "units",
+    "see_details": "View product",
+    "whatsapp": "Order",
+    "code": "Code",
+    "presentation": "Presentation"
+  },
+  "carousel": {
+    "title": "Most viewed products",
+    "empty": "Add products to the main group to show the carousel.",
+    "distributors": "Distributors for restaurants and foodservice."
+  },
+  "location": {
+    "title": "Location",
+    "address_label": "Address",
+    "hours_label": "Business hours",
+    "hour_open": "Open",
+    "hour_closed": "Closed",
+    "monday_friday": "Monday to Friday",
+    "saturday": "Saturday",
+    "sunday": "Sunday",
+    "closed": "Closed",
+    "map_hint": "Visit us or call us to coordinate your order."
+  },
+  "about": {
+    "title": "About us",
+    "p1": "At CMS Mexican Foods we believe food is more than flavor: it is tradition, family and culture. From our home in San Antonio, Texas, we are proud to bring authentic Mexican flavors to your kitchen with a wide variety of tortillas, chips, seasonings, spices and more that celebrate our heritage.",
+    "p2": "What started more than 40 years ago as a passion to share real flavor has become a trusted brand recognized for quality, consistency and care. Whether it’s delicious and crunchy chips, a touch of fajita seasoning on the grill, a warm tortilla straight off the comal or the perfect spice blend for your favorite recipes, CMS is here to make every meal unforgettable.",
+    "p3": "Our commitment is simple:",
+    "list1": "Authenticity – honoring the traditions of Mexican cuisine.",
+    "list2": "Quality – offering food with the flavor our customers expect.",
+    "list3": "Community – serving families, restaurants and businesses that love flavor as much as we do.",
+    "closing": "From tortillas to chips, spices and more — from our kitchen to yours. CMS Mexican Foods: Spices & More."
+  },
+  "contact": {
+    "title": "Contact us",
+    "text": "Are you a restaurant, taquería or food business? We can supply you.",
+    "whatsapp": "Message us on WhatsApp",
+    "email_label": "Email"
+  },
+  "footer": {
+    "rights": "© {{year}} CMS Mexican Foods, LLC. All rights reserved.",
+    "made_in": "San Antonio, Texas"
+  },
+  "lang": {
+    "label": "Language",
+    "current_es": "ES",
+    "current_en": "EN"
+  }
+}

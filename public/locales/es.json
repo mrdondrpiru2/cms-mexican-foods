@@ -1,0 +1,97 @@
+{
+  "business": {
+    "name": "CMS MEXICAN FOODS, LLC.",
+    "tagline": "Distribuidores para restaurantes – Harina de maíz, especias y más",
+    "phone_label": "Teléfono",
+    "phone": "(210) 776-9278",
+    "email": "cmsmexicanfoods@gmail.com",
+    "address": "5718 Business Park, San Antonio, TX 78218",
+    "cta_whatsapp": "Hacer pedido por WhatsApp"
+  },
+  "nav": {
+    "products": "Productos",
+    "location": "Ubicación",
+    "about": "Sobre nosotros",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "title": "Catálogo de productos (sin precios)",
+    "subtitle": "Somos distribuidores para restaurantes y servicios de alimentos en Texas. Explora y contáctanos para hacer tu pedido.",
+    "btn_products": "Ver productos",
+    "btn_location": "Ubicación",
+    "badge": "Mayoristas de alimentos mexicanos"
+  },
+  "filters": {
+    "all": "Todas",
+    "primary": "Productos principales",
+    "seasonings": "Especias, sazonadores y más"
+  },
+  "product_groups": {
+    "title": "Nuestros productos",
+    "primary_title": "Línea principal",
+    "g1": "Tortilla de Maíz",
+    "g2": "Tortilla de Maseca®",
+    "g3": "Tortilla cortada para freír",
+    "g4": "Productos de Harina",
+    "g5": "Mini tacos",
+    "g6": "Chips y Shells",
+    "g7": "Bultos de harina",
+    "sec_title": "Especias, sazonadores y más",
+    "s1": "Especias",
+    "s2": "Sazonadores",
+    "s3": "Caldos",
+    "s4": "Chilitos",
+    "s5": "Chile seco",
+    "s6": "Mole",
+    "s7": "Más productos"
+  },
+  "product_card": {
+    "units": "unidades",
+    "see_details": "Ver ficha",
+    "whatsapp": "Hacer pedido",
+    "code": "Código",
+    "presentation": "Presentación"
+  },
+  "carousel": {
+    "title": "Productos más visitados",
+    "empty": "Agrega productos al primer grupo para ver el carrusel.",
+    "distributors": "Distribuidores para restaurantes y demás servicios de comida."
+  },
+  "location": {
+    "title": "Ubicación",
+    "address_label": "Dirección",
+    "hours_label": "Horario",
+    "hour_open": "Abierto",
+    "hour_closed": "Cerrado",
+    "monday_friday": "Lunes a viernes",
+    "saturday": "Sábado",
+    "sunday": "Domingo",
+    "closed": "Cerrado",
+    "map_hint": "Puedes visitarnos o llamarnos para coordinar tu pedido."
+  },
+  "about": {
+    "title": "Sobre nosotros",
+    "p1": "En CMS Mexican Foods creemos que la comida es más que sabor: es tradición, familia y cultura. Desde nuestra casa en San Antonio, Texas, estamos orgullosos de llevar los auténticos sabores de México a tu cocina con una amplia variedad de tortillas, chips, sazonadores, especias y más… que celebran la riqueza de nuestra herencia.",
+    "p2": "Lo que comenzó hace más de 40 años como una pasión por compartir el verdadero sabor, se ha convertido en una marca de confianza reconocida por su calidad, consistencia y cuidado. Ya sea unos deliciosos y crujientes chips, un toque de sazonador para fajitas en la parrilla, una tortilla calientita recién salida del comal o la mezcla perfecta de especias para tus recetas favoritas, CMS está aquí para hacer de cada comida algo inolvidable.",
+    "p3": "Nuestro compromiso es sencillo:",
+    "list1": "Autenticidad – honrar las tradiciones de la cocina mexicana.",
+    "list2": "Calidad – ofrecer alimentos con el sabor que esperan nuestros clientes.",
+    "list3": "Comunidad – servir a familias, restaurantes y negocios que aman el sabor tanto como nosotros.",
+    "closing": "De las tortillas, a los chips, especias y más, de nuestra cocina a la tuya — CMS Mexican Foods: Spices & More."
+  },
+  "contact": {
+    "title": "Contáctanos",
+    "text": "¿Eres restaurante, taquería o negocio de comida? Podemos surtirte.",
+    "whatsapp": "Escríbenos por WhatsApp",
+    "email_label": "Correo"
+  },
+  "footer": {
+    "rights": "© {{year}} CMS Mexican Foods, LLC. Todos los derechos reservados.",
+    "made_in": "San Antonio, Texas"
+  },
+  "lang": {
+    "label": "Idioma",
+    "current_es": "ES",
+    "current_en": "EN"
+  }
+}
