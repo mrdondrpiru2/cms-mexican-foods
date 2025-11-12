@@ -15,7 +15,7 @@
     "contact": "Contact"
   },
   "hero": {
-    "title": "Product catalog (no prices)",
+    "title": "Product catalog",
     "subtitle": "We are foodservice distributors in Texas. Browse our products and contact us to place your order.",
     "btn_products": "View products",
     "btn_location": "Location",
@@ -69,16 +69,17 @@
     "closed": "Closed",
     "map_hint": "Visit us or call us to coordinate your order."
   },
-  "about": {
-    "title": "About us",
-    "p1": "At CMS Mexican Foods we believe food is more than flavor: it is tradition, family and culture. From our home in San Antonio, Texas, we are proud to bring authentic Mexican flavors to your kitchen with a wide variety of tortillas, chips, seasonings, spices and more that celebrate our heritage.",
-    "p2": "What started more than 40 years ago as a passion to share real flavor has become a trusted brand recognized for quality, consistency and care. Whether it’s delicious and crunchy chips, a touch of fajita seasoning on the grill, a warm tortilla straight off the comal or the perfect spice blend for your favorite recipes, CMS is here to make every meal unforgettable.",
-    "p3": "Our commitment is simple:",
-    "list1": "Authenticity – honoring the traditions of Mexican cuisine.",
-    "list2": "Quality – offering food with the flavor our customers expect.",
-    "list3": "Community – serving families, restaurants and businesses that love flavor as much as we do.",
-    "closing": "From tortillas to chips, spices and more — from our kitchen to yours. CMS Mexican Foods: Spices & More."
-  },
+ "about": {
+  "title": "About us",
+  "p1": "At CMS Mexican Foods, we believe food is more than flavor: it is tradition, family, and culture. From our home in San Antonio, Texas, we are proud to bring the authentic flavors of Mexico to your kitchen with a wide variety of tortillas, chips, seasonings, spices, and more — celebrating the richness of our heritage.",
+  "p2": "What began more than 40 years ago as a passion for sharing genuine flavor has grown into a trusted brand known for its quality, consistency, and care. Whether it’s delicious, crunchy chips, a touch of fajita seasoning on the grill, a warm tortilla straight from the comal, or the perfect spice blend for your favorite recipes, CMS is here to make every meal unforgettable.",
+  "p3": "Our commitment is simple:",
+  "list1": "Authenticity – honoring the traditions of Mexican cuisine.",
+  "list2": "Quality – delivering food with the flavor our customers expect.",
+  "list3": "Community – serving families, restaurants, and businesses that love flavor as much as we do.",
+  "closing": "From tortillas to chips, spices, and more — from our kitchen to yours. CMS Mexican Foods: Spices & More."
+},
+
   "contact": {
     "title": "Contact us",
     "text": "Are you a restaurant, taquería or food business? We can supply you.",

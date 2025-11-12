@@ -740,7 +740,7 @@ export default function Home() {
         <div className="mx-auto grid max-w-6xl items-center gap-6 px-4 sm:grid-cols-2">
           <div>
             <h1 className="text-3xl font-extrabold leading-tight">
-              {t?.hero?.title ?? (lang === "es" ? "Catálogo de productos (sin precios)" : "Product catalog (no prices)")}
+              {t?.hero?.title ?? (lang === "es" ? "Catálogo de productos" : "Product catalog")}
             </h1>
             <p className="mt-2 text-slate-600">
               {t?.hero?.subtitle ??
